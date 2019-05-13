@@ -1,0 +1,38 @@
+body{
+    width: 99%;
+    height: 100%;
+    background-image: url("../img/90B.jpg");
+}
+div.titulo{
+    background-image: url(../img/fondo-de-madera-de-textura-de-madera-fondo-para-presentaciones-espacio-para-el-texto-composicion-imagen-de-arte-sitio-web-revista-o-gra.jpg);
+    background-repeat: repeat;
+    background-position: top center;
+    text-align: center;
+    font-style: italic;
+    font-size: 200%;
+    border-radius: 10px;
+}
+div.parte1{
+
+background-color: salmon;
+width: 300px;
+font-style: italic;
+text-align: center;
+border-radius: 20px;
+}
+div.parte2{
+    background-color: salmon;
+width: 300px;
+font-style: italic;
+font-size: 135%;
+text-align: center;
+border-radius: 20px;
+}
+div.ejercicio1{
+    background-color: salmon;
+width: 300px;
+font-style: italic;
+font-size: 135%;
+text-align: center;
+border-radius: 20px;
+}

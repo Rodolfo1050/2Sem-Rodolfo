@@ -1,0 +1,11 @@
+body {background-color:orange;}
+div.prueba1{background-color: cornflowerblue;}
+p.imagen1{
+   
+    background-image: url("../img/618835.jpg.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 1920px;
+    width: 1080px;
+    
+}
